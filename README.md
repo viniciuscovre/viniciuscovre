@@ -1,6 +1,6 @@
-# Hi there! I'm Vinicius Covre 👱🏼‍♂️
+# Hi there! 👱🏼‍♂️
 
-![Profile views](https://gpvc.arturio.dev/vinacovre) [![Linkedin Badge](https://img.shields.io/badge/-vcovre-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vcovre/)](https://www.linkedin.com/in/vcovre/) [![Github Badge](https://img.shields.io/badge/-vinacovre-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vinacovre/)](https://www.github.com/vinacovre/) ![Twitter Follow](https://img.shields.io/twitter/follow/viniciuscovree?label=follow%20me&style=social)
+![Profile views](https://gpvc.arturio.dev/vinacovre) [![Linkedin Badge](https://img.shields.io/badge/-vcovre-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vcovre/)](https://www.linkedin.com/in/vcovre/) [![Github Badge](https://img.shields.io/badge/-vinacovre-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vinacovre/)](https://www.github.com/vinacovre/) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/viniciuscovree.svg?style=social&label=Follow%20me)](https://twitter.com/viniciuscovree)
 
 - 💻 &nbsp; Working [@Grupo ZAP](https://github.com/grupozap)
 - 🌱 &nbsp; Learning [Vue.js](https://vuejs.org/)
