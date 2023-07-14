@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">👱🏼‍♂️ ![Profile views](https://gpvc.arturio.dev/vinacovre)
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">👱🏼‍♂️
 
 ![Banner](https://user-images.githubusercontent.com/10708745/90900850-69f29700-e3a0-11ea-9ec9-3d4124f2743c.png)
 
